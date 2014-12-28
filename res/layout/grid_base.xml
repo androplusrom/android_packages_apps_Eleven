@@ -29,6 +29,8 @@
         android:layout_height="match_parent"
         android:paddingLeft="@dimen/list_item_general_margin"
         android:paddingRight="@dimen/list_item_general_margin"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"
         android:cacheColorHint="@color/transparent"
         android:drawSelectorOnTop="true"
         android:fadingEdge="vertical"
